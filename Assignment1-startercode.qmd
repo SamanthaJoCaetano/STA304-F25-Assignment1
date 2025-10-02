@@ -256,7 +256,7 @@ This questionnaire will require approximately 5 minutes to finish. Your response
 
 -   Other: \_\_\_\_\_\_\_\_\_\_
 
-2.  What gender do you identify with?
+2\.  What gender do you identify with?
 
 -   Female
 
@@ -266,7 +266,7 @@ This questionnaire will require approximately 5 minutes to finish. Your response
 
 -   Other: \_\_\_\_\_\_\_\_\_\_
 
-3.  What racial or ethnic group describes you?
+3\.  What racial or ethnic group describes you?
 
 -   Indigenous (First Nations, Métis, Inuit)
 -   Black
@@ -286,7 +286,7 @@ This questionnaire will require approximately 5 minutes to finish. Your response
 
 -   Other: \_\_\_\_\_\_\_\_\_\_
 
-5.Which of the following best describes your current academic program?
+5\. Which of the following best describes your current academic program?
 
 -   Mainstream (OSSD only)
 -   AP
@@ -311,7 +311,7 @@ This questionnaire will require approximately 5 minutes to finish. Your response
 
 **Section 2: Needs and Feedback**
 
-1.  On a scale from 1 (not helpful) to 5 (extremely helpful), how helpful do you think a handbook resource would be for supporting you in your STEM journey?
+1\.  On a scale from 1 (not helpful) to 5 (extremely helpful), how helpful do you think a handbook resource would be for supporting you in your STEM journey?
 
 -   1 (Not Helpful)
 
@@ -363,7 +363,7 @@ This questionnaire will require approximately 5 minutes to finish. Your response
 
 **Section 3: Open Feedback**
 
-1.  What additional content or features would you like to see included in the STEMBuddies Handbook?
+1\.  What additional content or features would you like to see included in the STEMBuddies Handbook?
 
 **Closing Message (Sent as a Confirmation Message)**
 
